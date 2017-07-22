@@ -21,6 +21,9 @@
     margin: 0px auto;
     background-color: #9575CD;
     color: floralwhite;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
 }
 
 address {
